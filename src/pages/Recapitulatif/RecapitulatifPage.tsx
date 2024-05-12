@@ -1,6 +1,0 @@
-const Recapitulatif = () => {
-    return(
-        <>
-        </>
-    )
-}
